@@ -1,5 +1,5 @@
 # Apriori_NSE_800_stocks
-Here, I have collected 800 company NSE stock data from yahoo finance and processed them.
+Here, I have collected NSE stocks of 800 companies from yahoo finance and processed them.
 Model performance improved a lot and able to identify most influential companies other than NIFTY 50 stocks. 
 Large amount of data extraction have been automated and improved efficiency noted.
 
