@@ -1,5 +1,5 @@
  
-###### for Tatamotors corresponding to other stocks (800 companies)
+###### for Tatamotors stock Vs 800 NSE stocks
 
 ```r
 
