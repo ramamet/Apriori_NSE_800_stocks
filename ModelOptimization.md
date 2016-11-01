@@ -1,5 +1,5 @@
  
- #for Tatamotors corresponding to other stocks (800 companies)
+for Tatamotors corresponding to other stocks (800 companies)
 
 ```r
  >>  tata_rules<-apriori(data=dd, parameter=list(supp=0.05,conf = 0.25,minlen=2,maxlen=3), 
@@ -60,7 +60,7 @@
 
  ```r
 >> test1= subset(tata_rules, rhs %in% c("TATASTEEL=A+","TATASTEEL=B+","TATAPOWER=A+","TATAPOWER=B+"))
-> inspect(sort(test1, by='lift', decreasing = T)[1:10])
+>> inspect(sort(test1, by='lift', decreasing = T)[1:10])
 ``` 
 
                lhs                             rhs             support    confidence
