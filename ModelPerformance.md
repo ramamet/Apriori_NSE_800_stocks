@@ -1,4 +1,7 @@
->>   inspect(sort(rules, by='lift', decreasing = T)[1:10])  
+
+```r
+>>inspect(sort(rules, by='lift', decreasing = T)[1:10])  
+``` 
 
      lhs                            rhs            support   confidence
 [1]  {IL.FSTR=B+}                => {IL.FSENGG=B+} 0.1069330 1         
