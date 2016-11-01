@@ -1,4 +1,7 @@
-> summary(dd)
+<div class="blue2">
+summary(dd)
+</div>
+
 
           transactions as itemMatrix in sparse format with
            1702 rows (elements/itemsets/transactions) and
