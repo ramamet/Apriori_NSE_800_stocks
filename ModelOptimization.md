@@ -30,9 +30,9 @@ mining info:
  data ntransactions support confidence
    dd          1702    0.05       0.25
    
-#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ ```r
 >>  inspect(sort(tata_rules, by='lift', decreasing = T)[1:10]) 
-
+ ``` 
      lhs                              rhs             support    confidence
 [1]  {HINDALCO=A+,TIMKEN=A+}       => {TATAMOTORS=A+} 0.05405405 0.5476190 
 [2]  {HINDCOPPER=A+,ULTRACEMCO=A+} => {TATAMOTORS=A+} 0.06991774 0.5409091 
