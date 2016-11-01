@@ -1,6 +1,6 @@
-<div class="blue2">
+```diff
 summary(dd)
-</div>
+```
 
 
           transactions as itemMatrix in sparse format with
