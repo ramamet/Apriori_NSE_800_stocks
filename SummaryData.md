@@ -1,4 +1,4 @@
->> summary(dd)
+> summary(dd)
 
           transactions as itemMatrix in sparse format with
            1702 rows (elements/itemsets/transactions) and
